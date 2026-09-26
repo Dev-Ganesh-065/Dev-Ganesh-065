@@ -25,6 +25,6 @@ I specialize in building scalable, high-performance web applications and design 
 
 🌐 **Connect With Me**
 
-- **Portfolio:** [Your Portfolio Link](https://3d-portfolio-pearl-chi.vercel.app/)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/p-ganesh-software-engineer/)
+- **Portfolio:** [https://3d-portfolio-pearl-chi.vercel.app/](https://3d-portfolio-pearl-chi.vercel.app/)
+- **LinkedIn:** [https://www.linkedin.com/in/p-ganesh-software-engineer/](https://www.linkedin.com/in/p-ganesh-software-engineer/)
 - **Email:** [ramaganesh.dev@gmail.com](mailto:ramaganesh.dev@gmail.com)
